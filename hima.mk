@@ -130,10 +130,6 @@ PRODUCT_PACKAGES += \
     ebtables \
     ethertypes
 
-# Camera
-PRODUCT_PACKAGES += \
-    camera.msm8994
-
 # Display
 PRODUCT_PACKAGES += \
     copybit.msm8994 \

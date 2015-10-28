@@ -339,7 +339,7 @@ etc/firmware/cpp_firmware_v1_4_0.fw
 etc/firmware/cpp_firmware_v1_6_0.fw
 etc/firmware/cpp_firmware_v1_8_0.fw
 lib64/libawb_calibration.so
-lib/hw/camera.vendor.msm8994.so
+lib/hw/camera.msm8994.so
 lib/libawb_calibration.so
 lib/libBeautyChat.so
 lib/libcamera_client.so
